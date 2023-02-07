@@ -4,6 +4,7 @@
 
 .EmbedFrame-header,
 .EmbedFrame-footer {
+  display: none;
   color: var(--color-text-dark);
   background-color: white;
 }
